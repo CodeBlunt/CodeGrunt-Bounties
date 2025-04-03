@@ -1,0 +1,6 @@
+
+academy-outbound-ads.tiktok.com - Vulnerable - AWS/S3
+fp-sg.tiktokv.com - Not Vulnerable
+partner.tiktokshop.com - Not Vulnerable
+pay.tokopediax.com - Vulnerable - Heroku
+effecthouse.tiktok.com - Not Vulnerable
